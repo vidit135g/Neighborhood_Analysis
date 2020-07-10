@@ -8,7 +8,6 @@ Data Science project for detailed analysis of neighborhood areas.
     <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/2.PNG" width="300" height="150"/>
     <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/3.PNG" width="300" height="150"/>
     <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/4.PNG" width="300" height="150"/>
-    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/5.PNG" width="300" height="150"/>
 </div>
 
 ### 1. Introduction:
@@ -39,3 +38,5 @@ Name of the venue e.g. the name of a store or restaurant
 Venue Latitude
 Venue Longitude
 Venue Category
+
+<img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/5.PNG"/>
