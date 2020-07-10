@@ -1,12 +1,14 @@
+<img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/main.PNG"/>
+
 # Neighborhood_Analysis
 Data Science project for detailed analysis of neighborhood areas.
 
 <div class="christmas_promotion_boxes">
-    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/1.PNG" width="500" height="220"/>
-    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/2.PNG" width="500" height="250"/>
-    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/3.PNG" width="500" height="220"/>
-    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/4.PNG" width="500" height="250"/>
-    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/5.PNG" width="530" height="270"/>
+    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/1.PNG" width="300" height="150"/>
+    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/2.PNG" width="300" height="150"/>
+    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/3.PNG" width="300" height="150"/>
+    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/4.PNG" width="300" height="150"/>
+    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/5.PNG" width="300" height="150"/>
 </div>
 
 ### 1. Introduction:
