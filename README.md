@@ -4,10 +4,10 @@
 Data Science project for detailed analysis of neighborhood areas.
 
 <div class="christmas_promotion_boxes">
-    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/1.PNG" width="300" height="150"/>
-    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/2.PNG" width="300" height="150"/>
-    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/3.PNG" width="300" height="150"/>
-    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/4.PNG" width="300" height="150"/>
+    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/1.PNG" width="400" height="200"/>
+    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/2.PNG" width="400" height="200"/>
+    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/3.PNG" width="400" height="200"/>
+    <img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/4.PNG" width="400" height="200"/>
 </div>
 
 ### 1. Introduction:
@@ -31,12 +31,20 @@ After finding the list of neighborhoods, we then connect to the Foursquare API t
 The data retrieved from Foursquare contained information of venues within a specified distance of the longitude and latitude of the postcodes. The information obtained per venue as follows:
 
 Neighborhood
-Neighborhood Latitude
-Neighborhood Longitude
-Venue
-Name of the venue e.g. the name of a store or restaurant
-Venue Latitude
-Venue Longitude
-Venue Category
 
-<img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/5.PNG"/>
+Neighborhood Latitude
+
+Neighborhood Longitude
+
+Venue
+
+Name of the venue e.g. the name of a store or restaurant
+
+Venue Latitude
+
+Venue Longitude
+
+Venue Category
+<br />
+
+<img src="https://raw.githubusercontent.com/vidit135g/Neighborhood_Analysis/master/Area%20analysis/visuals/5.PNG"  width="600" height="400"/>
